@@ -55,4 +55,4 @@ After replacing reading and math scores for the 9th grade at Thomas High School 
 - Percent of passing math and reading at the THS was decreased by 0.09 and 0.29 points
 - Percent of overall passing at the THS dropped by 0.31 points.
 
-As we rounded the grade averages to one decimal place and percentages to the nearest whole number percent, the only difference that can be seen in the final tables is reducing average math score in district summary by 0.1 points.
+As the grade averages were rounded to one decimal place and percentages were formatted to the nearest whole number percent, the only difference that can be seen in the final tables is reducing average math score in district summary by 0.1 points.
